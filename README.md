@@ -4,7 +4,7 @@
 
 **Installlation:** Move the script to /usr/bin/ and give it executable permissions (chmod +x)
 
-**Usage:** *cgpt [-h] [-it][-itc] [-sk API_KEY]
+**Usage:** cgpt [-h] [-it][-itc] [-sk API_KEY]
 ```
 Chat with ChatGPT.
 
